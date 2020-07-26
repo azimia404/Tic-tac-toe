@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\XandOTRela\XandOTRela\bin\Debug\XandOTRela.exe.config
+C:\Users\User\source\repos\XandOTRela\XandOTRela\bin\Debug\XandOTRela.exe
+C:\Users\User\source\repos\XandOTRela\XandOTRela\bin\Debug\XandOTRela.pdb
+C:\Users\User\source\repos\XandOTRela\XandOTRela\obj\Debug\XandOTRela.csprojAssemblyReference.cache
+C:\Users\User\source\repos\XandOTRela\XandOTRela\obj\Debug\XandOTRela.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\XandOTRela\XandOTRela\obj\Debug\XandOTRela.exe
+C:\Users\User\source\repos\XandOTRela\XandOTRela\obj\Debug\XandOTRela.pdb
